@@ -1,31 +1,31 @@
-.head1 {
-  color: coral;
-  font-family: 'Courier New', Courier, monospace;
-}
-
 .para1 {
   color: midnightblue;
   font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
 }
 
-.list1 {
-  list-style-type: square;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: cornflowerblue;
-}
-
 .table1,
-th,
 td {
   border: 1px solid orchid;
 }
 
-.list2 {
-  list-style-type: circle;
-  font-family: Cambria, Cochin, 'Georgia, Times', Times New Roman, serif;
-  color: olive;
+.table1 {
+  border-collapse: collapse; 
 }
 
-.table2 {
-  border-collapse: collapse;
+.para2 {
+  color: lightcoral;
+  font-family: 'Times New Roman', Times, serif
+}
+
+.div1 {
+  width: 300px;
+  border: 10px solid blueviolet;
+  padding: 50px;
+  margin: 20px;
+}
+
+.img1 {
+  width: 128px;
+  height: 128px;
+  border: 5px solid antiquewhite;
 }
