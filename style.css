@@ -1,11 +1,11 @@
 .head1 {
   color: coral;
-  font-family: 'Courier New', Courier, monospace
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .para1 {
   color: midnightblue;
-  font-family: 'Lucida Sans', Geneva, Verdana, sans-serif
+  font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
 }
 
 .list1 {
@@ -15,8 +15,8 @@
 }
 
 .table1,
- th,
-  td  {
+th,
+td {
   border: 1px solid orchid;
 }
 
