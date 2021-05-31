@@ -1,0 +1,31 @@
+.head1 {
+  color: coral;
+  font-family: 'Courier New', Courier, monospace
+}
+
+.para1 {
+  color: midnightblue;
+  font-family: 'Lucida Sans', Geneva, Verdana, sans-serif
+}
+
+.list1 {
+  list-style-type: square;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: cornflowerblue;
+}
+
+.table1,
+ th,
+  td  {
+  border: 1px solid orchid;
+}
+
+.list2 {
+  list-style-type: circle;
+  font-family: Cambria, Cochin, 'Georgia, Times', Times New Roman, serif;
+  color: olive;
+}
+
+.table2 {
+  border-collapse: collapse;
+}
